@@ -1,4 +1,4 @@
-import News from "@/app/(home)/news/page";
+import News from "@/app/news/page";
 
 export default function Home() {
   return (
