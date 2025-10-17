@@ -63,8 +63,6 @@ export default function Main() {
                 <img
                   src={item.image}
                   alt="image"
-                  width={258}
-                  height={179}
                   className="object-cover w-[100px] h-[100px] md:w-[258px] md:h-[179px]"
                 />
                 <div className="flex-1">
